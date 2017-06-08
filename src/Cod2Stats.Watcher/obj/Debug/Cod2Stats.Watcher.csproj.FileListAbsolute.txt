@@ -1,0 +1,6 @@
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\bin\Debug\Cod2Stats.Watcher.exe.config
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\bin\Debug\Cod2Stats.Watcher.exe
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\bin\Debug\Cod2Stats.Watcher.pdb
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\obj\Debug\Cod2Stats.Watcher.csprojResolveAssemblyReference.cache
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\obj\Debug\Cod2Stats.Watcher.exe
+D:\WorkSVN\BadCompany\Cod2Stats\src\Cod2Stats.Watcher\obj\Debug\Cod2Stats.Watcher.pdb
